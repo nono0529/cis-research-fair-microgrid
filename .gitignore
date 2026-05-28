@@ -1,0 +1,12 @@
+.claude/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+poster-workspace/
+tessdata/
+/*.pptx
+/*.pdf
+/*.png
+/*.jpg
